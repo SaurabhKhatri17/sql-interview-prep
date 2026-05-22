@@ -1,39 +1,69 @@
-# SQL Interview Prep
+# SQL Interview Prep 🚀
 
-Welcome to the SQL Interview Prep repository! This resource is designed to help you prepare for SQL-related interview questions and improve your database query skills.
+This repository is a curated collection of SQL problems and solutions designed to strengthen problem-solving skills for data analyst and data engineering roles.
 
-## Contents
-
-- **Common SQL Queries**: Examples of frequently asked interview questions
-- **Query Patterns**: Different approaches to solving SQL problems
-- **Practice Problems**: Real-world scenarios and exercises
-- **Resources**: Additional learning materials and references
-
-## Getting Started
-
-1. Explore the repository structure
-2. Review the examples and practice problems
-3. Work through queries from basic to advanced levels
-4. Test your understanding with the provided exercises
-
-## Topics Covered
-
-- SELECT, INSERT, UPDATE, DELETE operations
-- JOINs and relationships
-- Aggregation and GROUP BY
-- Subqueries and CTEs
-- Window Functions
-- Performance optimization
-- Database design concepts
-
-## Contributing
-
-Feel free to contribute by adding more examples, problems, or improvements to existing content. Please make sure to follow the existing format and structure.
-
-## License
-
-This project is open source and available under the MIT License.
+The focus is not just on writing correct queries, but on understanding:
+- ✅ Efficient query design
+- ✅ Data relationships and transformations
+- ✅ Optimization techniques
+- ✅ Common SQL patterns used in interviews
 
 ---
 
-Happy learning! 🚀
+## 📌 What's Included
+
+Each problem contains:
+- ✅ Problem statement
+- ✅ Working SQL solution
+- ✅ Optimized approach
+- ✅ Step-by-step explanation of logic
+- ✅ Key takeaways and reusable patterns
+
+---
+
+## 📂 Topics Covered
+
+- Joins & Relationships
+- Aggregations & Grouping
+- Window Functions
+- String & Pattern Matching
+- Query Optimization
+- Real-world SQL Scenarios
+
+---
+
+## 🧠 Approach
+
+The goal of this repository is to move beyond memorizing queries and instead focus on:
+- Understanding how to think about SQL problems
+- Breaking down complex queries into simpler steps
+- Identifying and avoiding common pitfalls (e.g., duplicate rows, inefficient joins)
+- Applying reusable SQL patterns
+
+---
+
+## 🔥 Key SQL Patterns Practiced
+
+- Using `AVG(CASE WHEN ...)` for percentages
+- `ROW_NUMBER()` for first/last row problems
+- Handling division by zero with `NULLIF` and `COALESCE`
+- Avoiding duplicate pairs in self joins
+- Writing efficient aggregations with minimal nesting
+
+---
+
+## 🎯 Goal
+
+To build a strong foundation in SQL that translates into:
+- Better interview performance
+- Cleaner and more efficient code in real-world projects
+- Stronger analytical thinking
+
+---
+
+## 🛠 Tools Used
+
+- PostgreSQL / MySQL
+- SQL-based problem platforms (LeetCode, HackerRank)
+
+---
