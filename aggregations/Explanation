@@ -1,0 +1,9 @@
+🧠 Explanation
+
+Multiply price * units → total revenue
+Divide by total units → weighted average
+NULLIF prevents division by zero
+COALESCE returns 0 for missing data
+
+🔥 Pattern
+COALESCE(numerator / NULLIF(denominator, 0), 0)
