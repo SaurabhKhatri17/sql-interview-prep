@@ -1,0 +1,8 @@
+🧠 Explanation
+
+ROW_NUMBER() gets the first order per customer
+Convert condition → 1 (true), 0 (false)
+AVG() computes the percentage directly
+
+🔥 Pattern
+AVG(CASE WHEN condition THEN 1 ELSE 0 END)
